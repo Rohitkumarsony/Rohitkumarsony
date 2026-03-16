@@ -336,15 +336,15 @@ Swami Vivekanand Institute of Engineering & Technology
 
 <div align="center">
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/rohit-kumar-0993ab232">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://huggingface.co/yourusername">
+<a href="https://huggingface.co/rohitkumarai">
   <img src="https://img.shields.io/badge/🤗%20HuggingFace-My%20Models-FFD21F?style=for-the-badge" />
 </a>
 &nbsp;
-<a href="https://yourportfolio.com">
+<a href="https://rohitkumarai.in">
   <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5733?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 &nbsp;
