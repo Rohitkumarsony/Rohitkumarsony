@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/rohit-kumar-0993ab232">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rohit-kumar-0993ab232">
+  <a href="https://huggingface.co/rohitkumarai">
     <img src="https://img.shields.io/badge/🤗%20HuggingFace-FFD21F?style=for-the-badge&logoColor=black" />
   </a>
   <a href="https://rohitkumarai.in">
