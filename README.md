@@ -44,7 +44,7 @@
 ```python
 class RohitKumar:
     def __init__(self):
-        self.name         = "Rohit Kumar Soni"
+        self.name         = "Rohit Kumar"
         self.role         = "Associate AI/ML Engineer"
         self.company      = "Eminence Internet Technology Pvt. Ltd., Mohali"
         self.education    = "B.Tech CSE • SVIET • CGPA: 8.5/10"
