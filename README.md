@@ -75,7 +75,7 @@ me.say_hi()
 📍 Mohali, India &nbsp;|&nbsp; 🗓️ Apr 2024 — Present
 
 - 🏗️ Architected **production AI/ML systems** using LangChain & LangGraph
-- 📦 Built **enterprise RAG systems** (ChromaDB + Pinecone) handling **10K+ queries/day**
+- 📦 Built **enterprise RAG systems** using ChromaDB & Pinecone for high-accuracy document retrieval
 - 🎙️ Built **real-time voice AI** with WebSocket, TTS/STT & emotion detection
 - 🧠 Fine-tuned **BERT, T5, LLaMA** transformers for domain-specific tasks
 - 🔁 Developed **MLOps pipelines** for versioning, monitoring & auto-deployment
@@ -104,8 +104,7 @@ Swami Vivekanand Institute of Engineering & Technology
 | Metric | Value |
 |:---|:---|
 | 🚀 AI Projects Shipped | **17+** |
-| 📊 Daily Queries Handled | **10K+** |
-| 🎯 Best Model Accuracy | **98%+** |
+| 🎯 Best Model Accuracy | **97–98%** |
 | 🧠 Transformers Fine-Tuned | **5+** |
 | ⏱️ Voice AI Latency | **~1.5s** |
 | 🕷️ Sites Scraped Reliably | **50+** |
@@ -123,78 +122,92 @@ Swami Vivekanand Institute of Engineering & Technology
 ---
 
 ### 🤖 1. Multi-Agent RAG System — LangGraph
-> Enterprise multi-agent platform with specialized agents for retrieval, synthesis, fact-checking & generation. Dynamic routing + context-aware memory management across sessions.
+> **What it does:** A smart Q&A system where multiple AI agents work together — one searches documents, one checks facts, another writes the final answer. Instead of one AI doing everything, each agent has a specific job, making answers more accurate and reliable.
+>
+> **Why it matters:** Traditional RAG gives one response from one model. This system routes the question to the right agent, cross-checks facts, and returns verified answers — like a team of specialists vs one generalist.
 
 ```
 📦 Stack   →  LangGraph • Pinecone • FastAPI • Redis
-🎯 Result  →  95%+ answer accuracy on domain-specific queries
-⚡ Feature →  Agent collaboration with persistent memory & dynamic routing
+🎯 Result  →  97–98% answer accuracy on domain-specific queries
+⚡ Feature →  Dynamic agent routing with persistent conversation memory
 ```
 
 ---
 
 ### 🎤 2. Ultra-Low Latency Voice AI (~1.5s)
-> Real-time STT → LLM → TTS streaming pipeline. Sub-2s end-to-end latency with ChromaDB knowledge retrieval and streaming output to client.
+> **What it does:** You speak → AI listens, thinks, and speaks back — all within 1.5 seconds. It transcribes your voice, passes it to an LLM, and reads the answer back to you using natural-sounding speech.
+>
+> **Why it matters:** Most voice assistants take 3–5 seconds. This pipeline is optimized end-to-end: fast STT, ultra-fast Groq inference, streaming TTS — making the conversation feel instant and natural.
 
 ```
 📦 Stack   →  Deepgram STT • Groq LLM • ElevenLabs TTS • ChromaDB
 🎯 Result  →  Consistent ~1.5s end-to-end response latency
-⚡ Feature →  Streaming responses + real-time knowledge retrieval
+⚡ Feature →  Fully streaming pipeline + vector-based knowledge retrieval
 ```
 
 ---
 
 ### 🎯 3. LLaMA 3.1 (8B) Command Intent Classifier
-> Fine-tuned LLaMA 3.1 8B using LoRA for classifying Linux commands and natural language queries into predefined DevOps intents. Custom prompt-completion dataset pipeline.
+> **What it does:** Takes a Linux command or plain English sentence like *"delete all log files older than 7 days"* and correctly identifies what the user wants to do — no manual parsing needed.
+>
+> **Why it matters:** Instead of training from scratch, LLaMA 3.1 8B was fine-tuned using LoRA (a lightweight technique that trains only a small part of the model), making it fast and efficient to train on custom DevOps data.
 
 ```
 📦 Stack   →  LLaMA 3.1 8B • LoRA • HuggingFace Transformers • PyTorch
-🎯 Result  →  96% classification accuracy
-⚡ Feature →  Parameter-efficient LoRA fine-tuning on custom dataset
+🎯 Result  →  97% classification accuracy on custom intent dataset
+⚡ Feature →  LoRA fine-tuning — efficient training without full model retraining
 ```
 
 ---
 
 ### 🧠 4. Deepfake Audio Detection — Wav2Vec2
-> ML pipeline detecting synthetic vs real speech using Wav2Vec2 transformer embeddings. Trained and compared LR, SVM, Random Forest on 70K samples. Best: Logistic Regression.
+> **What it does:** Given an audio clip, the system tells you whether it's a real human voice or AI-generated speech. It extracts deep audio features using Facebook's Wav2Vec2 transformer, then classifies them with ML models.
+>
+> **Why it matters:** AI voice cloning is a growing threat — this system provides a reliable detection layer. Trained on 70,000 real + fake audio samples and benchmarked across 3 ML classifiers to find the best performer.
 
 ```
 📦 Stack   →  Wav2Vec2 • Scikit-Learn • PyTorch • Audio ML
-🎯 Result  →  92.86% detection accuracy on 70K real-world samples
-⚡ Feature →  768-dim embeddings + StandardScaler preprocessing
+🎯 Result  →  97% detection accuracy on 70K real-world audio samples
+⚡ Feature →  768-dimensional audio embeddings + multi-model benchmarking
 ```
 
 ---
 
 ### 🎙️ 5. AI Podcast Intelligence Platform
-> Full podcast pipeline: speaker diarization, music filtering, LLM summarization, sentiment timeline with timestamps, semantic search & chunked sliding-window processing.
+> **What it does:** Upload a podcast → the system automatically identifies each speaker, filters background music, transcribes everything, summarizes key points, analyzes the emotional tone over time, and lets you search across the entire episode using natural language.
+>
+> **Why it matters:** Manually reviewing long podcasts takes hours. This platform automates the entire analysis pipeline — from raw audio to searchable, structured insights — using AI at every step.
 
 ```
 📦 Stack   →  AssemblyAI • LangChain • Pinecone • AWS S3 • WebSocket
-🎯 Result  →  Fully automated podcast analysis at production scale
-⚡ Feature →  Sliding-window chunking + real-time WebSocket progress
+🎯 Result  →  Full end-to-end automation from raw audio to searchable insights
+⚡ Feature →  Sliding-window chunking handles long episodes beyond LLM limits
 ```
 
 ---
 
 ### 🕷️ 6. ML-Powered Intelligent Web Scraper
-> CNN-based popup detector to handle dynamic popups, CAPTCHA, and anti-bot systems. Automated interaction using Selenium with headless Chrome across 50+ websites.
+> **What it does:** A scraper that can actually handle websites that fight back — random popups, cookie banners, CAPTCHAs, and anti-bot blocks. A trained CNN model detects and dismisses popups automatically so scraping never gets stuck.
+>
+> **Why it matters:** Standard scrapers break the moment a popup appears. This system uses a computer vision model to see and handle any popup just like a human would — enabling reliable, uninterrupted data extraction across 50+ websites.
 
 ```
 📦 Stack   →  Selenium • CNN • BeautifulSoup • Computer Vision • Python
-🎯 Result  →  98% popup detection accuracy across 50+ target sites
-⚡ Feature →  Automated CAPTCHA & anti-bot bypass at scale
+🎯 Result  →  98% popup detection & handling accuracy across 50+ sites
+⚡ Feature →  Headless Chrome + ML-driven interaction for full automation
 ```
 
 ---
 
 ### 😷 7. Face Mask Detection — MobileNetV2 Transfer Learning
-> Production computer vision system for real-time face mask detection. Transfer learning on MobileNetV2 with URL-based image prediction and automated dataset pipeline.
+> **What it does:** Point a camera at someone and the system instantly tells you whether they're wearing a mask or not — in real time. It also accepts image URLs, so it can be integrated into any web service or monitoring dashboard.
+>
+> **Why it matters:** Instead of training a CNN from zero (which takes days), MobileNetV2's pre-trained weights were reused and fine-tuned — a technique called Transfer Learning — achieving high accuracy with far less data and compute.
 
 ```
 📦 Stack   →  TensorFlow • MobileNetV2 • Transfer Learning • KaggleHub
-🎯 Result  →  98%+ binary classification accuracy (Mask / No Mask)
-⚡ Feature →  Public safety & workplace compliance monitoring
+🎯 Result  →  98% binary classification accuracy (Mask / No Mask)
+⚡ Feature →  URL-based inference ready for real-world deployment
 ```
 
 ---
