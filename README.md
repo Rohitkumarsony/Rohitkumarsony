@@ -278,15 +278,15 @@ Swami Vivekanand Institute of Engineering & Technology
 ## 🎯 Expertise Depth
 
 ```
-🦜  LLM Engineering & RAG        ████████████████████  97%
-🤖  Multi-Agent AI (LangGraph)   ███████████████████░  94%
-🧠  Transformer Fine-Tuning      ███████████████████░  93%
-👁️  Computer Vision (CNN/CV)     ██████████████████░░  90%
-🎵  Audio ML & Speech AI         ██████████████████░░  88%
-📄  Document Intelligence        ████████████████████  96%
-🎤  Voice AI & Streaming         ████████████████░░░░  82%
-🔁  MLOps & Deployment           ████████████████░░░░  83%
-🕷️  ML-Powered Automation        ██████████████████░░  87%
+🦜  LLM Engineering & RAG      
+🤖  Multi-Agent AI (LangGraph)  
+🧠  Transformer Fine-Tuning     
+👁️  Computer Vision (CNN/CV)   
+🎵  Audio ML & Speech AI        
+📄  Document Intelligence       
+🎤  Voice AI & Streaming       
+🔁  MLOps & Deployment          
+🕷️  ML-Powered Automation     
 ```
 
 ---
