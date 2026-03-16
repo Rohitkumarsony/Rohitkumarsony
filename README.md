@@ -42,7 +42,7 @@
 ## 🧬 About Me
 
 ```python
-class RohitKumarSoni:
+class RohitKumar:
     def __init__(self):
         self.name         = "Rohit Kumar Soni"
         self.role         = "Associate AI/ML Engineer"
@@ -58,7 +58,7 @@ class RohitKumarSoni:
     def say_hi(self):
         print("Thanks for visiting! Let's build the future of AI together.")
 
-me = RohitKumarSoni()
+me = RohitKumar()
 me.say_hi()
 ```
 
