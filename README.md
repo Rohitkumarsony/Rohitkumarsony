@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohit%20Kumar%20Soni&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20AI%20Agents%20%7C%20MLOps&descAlignY=60&descAlign=50&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohit%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20AI%20Agents%20%7C%20MLOps&descAlignY=60&descAlign=50&descColor=a78bfa" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Rohitkumarsony">
