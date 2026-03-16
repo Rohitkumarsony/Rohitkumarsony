@@ -291,38 +291,6 @@ Swami Vivekanand Institute of Engineering & Technology
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohitkumarsony/Rohitkumarsony/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohitkumarsony/Rohitkumarsony/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rohitkumarsony/Rohitkumarsony/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Rohitkumarsony&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&hide=contribs" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkumarsony&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitkumarsony&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
-
-</div>
-
----
-
 ## 🧠 Currently Exploring
 
 - 🔬 **Agentic Reasoning** — Autonomous multi-step planning & tool use
