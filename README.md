@@ -12,13 +12,13 @@
 
 <!-- PROFILE BADGES -->
 <p>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/rohit-kumar-0993ab232">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://huggingface.co/yourusername">
+  <a href="https://www.linkedin.com/in/rohit-kumar-0993ab232">
     <img src="https://img.shields.io/badge/🤗%20HuggingFace-FFD21F?style=for-the-badge&logoColor=black" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://rohitkumarai.in">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:rohitkrsoni1999@gmail.com">
