@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Rohitkumarsony">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&lines=🤖+Building+Production-Grade+AI+%26+ML+Systems;🧠+LLM+Engineer+%7C+RAG+Architect+%7C+Fine-Tuning;⚡+Multi-Agent+AI+%7C+LangGraph+%7C+Transformers;🔬+Deep+Learning+%7C+CNNs+%7C+Audio+%26+Vision+AI;🚀+Shipping+AI+from+Research+to+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&lines=🤖+Building+Production-Grade+AI+%26+ML+Systems;🧠+LLM+Engineer+%7C+RAG+Architect+%7C+Fine-Tuning;⚡+Multi-Agent+AI+%7C+LangGraph+%7C+Transformers;🔬+Deep+Learning+%7C+CNNs+%7C+Audio+%26+Vision+AI;🚀+Shipping+AI+from+Research+to+Production">
 </a>
 
 <br/>
