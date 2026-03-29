@@ -18,7 +18,7 @@
   <a href="https://huggingface.co/rohitkumarai">
     <img src="https://img.shields.io/badge/🤗%20HuggingFace-FFD21F?style=for-the-badge&logoColor=black" />
   </a>
-  <a href="https://rohitkumarai.in">
+  <a href="https://rohitai.in">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:rohitkrsoni1999@gmail.com">
@@ -312,7 +312,7 @@ Swami Vivekanand Institute of Engineering & Technology
   <img src="https://img.shields.io/badge/🤗%20HuggingFace-My%20Models-FFD21F?style=for-the-badge" />
 </a>
 &nbsp;
-<a href="https://rohitkumarai.in">
+<a href="https://rohitai.in">
   <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5733?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 &nbsp;
