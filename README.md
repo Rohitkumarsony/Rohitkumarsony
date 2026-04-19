@@ -107,7 +107,7 @@ Swami Vivekanand Institute of Engineering & Technology
 | 🎯 Best Model Accuracy | **97–98%** |
 | 🧠 Transformers Fine-Tuned | **5+** |
 | ⏱️ Voice AI Latency | **~1.5s** |
-| 🕷️ Sites Scraped Reliably | **50+** |
+| 🕷️ Sites Scraped Reliably | **500+** |
 
 </td>
 </tr>
