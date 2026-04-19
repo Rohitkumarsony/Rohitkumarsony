@@ -44,66 +44,25 @@
 ```python
 class RohitKumar:
     def __init__(self):
-        self.name         = "Rohit Kumar"
+        self.name = "Rohit Kumar"
+        self.current_role = "AI/ML Engineer | ML Engineer | Data Scientist | IoT Engineer"
+        self.company = "Suffescom Solutions Pvt. Ltd. | Present • Since 31 March 2026"
+        self.past_exp = "Eminence Internet Technology Pvt. Ltd. | Associate AI/ML Engineer | 2+ Years Industry Experience"
 
-        self.current_role = [
-            "AI/ML Engineer",
-            "ML Engineer",
-            "Data Scientist",
-            "IoT Engineer",
-            "Web Developer"
-        ]
-
-        self.company      = "Suffescom Solutions Pvt. Ltd."
-        self.joined       = "Present • Since 31 March"
-
-        self.past_experience = {
-            "company": "Eminence Internet Technology Pvt. Ltd.",
-            "roles": [
-                "Associate AI/ML Engineer",
-                "Machine Learning Engineer",
-                "Data Scientist",
-                "IoT Developer",
-                "Full Stack Web Developer"
-            ],
-            "experience": "2+ Years Industry Experience"
-        }
-
-        self.education    = "B.Tech CSE • SVIET • CGPA: 8.5/10"
-        self.location     = "Punjab, India 🇮🇳"
-
-        self.focus = [
-            "LLM Engineering",
-            "RAG Systems",
-            "AI Agents",
-            "Deep Learning",
-            "MLOps",
-            "Cloud AI Deployment"
-        ]
-
-        self.expertise = [
-            "Transformers",
-            "Fine-Tuning",
-            "Computer Vision",
-            "Audio AI",
-            "NLP",
-            "FastAPI",
-            "Docker",
-            "Production APIs"
-        ]
-
-        self.current_work = "Designing and deploying production-grade AI systems, intelligent automation platforms, scalable ML pipelines, and enterprise solutions."
-
-        self.contact      = "rohitkrsoni1999@gmail.com"
-        self.fun_fact     = "I ship AI products to production — from idea to scale 🚀"
+        self.education = "B.Tech CSE • SVIET • CGPA: 8.5/10 (2020-2024)"
+        self.location = "Punjab, India 🇮🇳"
+        self.focus = "LLM Engineering | RAG Systems | AI Agents | Deep Learning | MLOps | Cloud AI Deployment"
+        self.skills = "Python | FastAPI | Transformers | Fine-Tuning | Computer Vision | NLP | Aws | Docker | APIs | Full Stack Development | IoT Systems"
+        self.current_work = "Building production-grade AI systems, scalable ML pipelines, automation platforms, and enterprise solutions."
+        self.contact = "rohitkrsoni1999@gmail.com"
+        self.fun_fact = "I turn AI ideas into real production products 🚀"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build the future of AI together.")
+        print('Thanks for visiting! Let’s build the future of AI together.')
 
 me = RohitKumar()
 me.say_hi()
 ```
-
 ---
 
 ## 💼 Professional Experience
