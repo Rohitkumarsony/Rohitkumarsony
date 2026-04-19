@@ -72,7 +72,7 @@ me.say_hi()
 
 ### 🏢 Associate AI/ML Engineer
 **Eminence Internet Technology Pvt. Ltd.**
-📍 Mohali, India &nbsp;|&nbsp; 🗓️ Apr 2024 — Present
+📍 Mohali, India &nbsp;|&nbsp; 🗓️ Apr 2024 — March 2026
 
 - 🏗️ Architected **production AI/ML systems** using LangChain & LangGraph
 - 📦 Built **enterprise RAG systems** using ChromaDB & Pinecone for high-accuracy document retrieval
@@ -83,7 +83,7 @@ me.say_hi()
 ---
 
 ### 🖥️ Software Developer Intern
-**Shine Dezign Pvt. Ltd.** &nbsp;|&nbsp; 🗓️ 6 Months
+**Shine Dezign Pvt. Ltd.** &nbsp;|&nbsp; 🗓️ 3 Months
 
 - Built PHP-based web apps with clean backend architecture
 - Optimized server-side logic & responsive UI integrations
