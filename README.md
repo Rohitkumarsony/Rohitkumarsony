@@ -45,8 +45,8 @@
 class RohitKumar:
     def __init__(self):
         self.name = "Rohit Kumar"
-        self.current_role = "AI/ML Engineer | Data Scientist | IoT Engineer"
-        self.company = "Suffescom Solutions Pvt. Ltd. | Present • Since 31 March 2026"
+        self.current_role = "AI/ML Engineer | Data Scientist | IoT Engineer | Automation Engineer | Backend Engineer"
+        self.company = "Suffescom Solutions Pvt. Ltd. | June 2026 • Since March 2026"
         self.past_exp = "Eminence Internet Technology Pvt. Ltd. | Associate AI/ML Engineer | 2+ Years Industry Experience"
         self.education = "B.Tech CSE • SVIET • CGPA: 8.5/10 (2020-2024)"
         self.location = "Punjab, India 🇮🇳"
